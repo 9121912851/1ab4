@@ -1,0 +1,3 @@
+I need a Python function that takes a text file path as an argument. 
+The function should read the file, count the number of lines, and return the total count. 
+It should also handle cases where the file doesn't exist by printing an error message and returning a value of -1."
